@@ -1,0 +1,8 @@
+telnet
+nmap
+wget
+vim
+net-tools
+yum-utils
+openssh-server
+openssh-clients
